@@ -1,6 +1,6 @@
 # VDNA-project
 
-This is a testing prototype for virtual DNA lab project. A software tool for visualization and analysis of simulated raw outputs of NFsim by Michael Sneddon http://michaelsneddon.net/nfsim/.  
+This is a testing prototype for virtual DNA lab project. A software tool for visualization and analysis of simulated raw outputs of NFsim simulater by Michael Sneddon http://michaelsneddon.net/nfsim/.  
 
 Developed by Frankie Spencer,
 Project led by Dr. Eugen Czeizler,
