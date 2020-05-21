@@ -10,4 +10,4 @@ At: Algorithms and Software in Bio-Engineering (AlgoBio),
     Åbo Akademi University, 
     Åbo, Finland
 
-Beta version available at: https://github.com/Frankie-Spencer/virtual_dna_lab_package_beta_v04
+Beta version available at: https://github.com/Frankie-Spencer/virtual_dna_lab_beta_v04
