@@ -2,8 +2,8 @@
 
 This is a testing prototype for virtual DNA lab project. A software tool for visualization and analysis of simulated raw outputs of NFsim by Michael Sneddon http://michaelsneddon.net/nfsim/.  
 
-Developed by Frankie Spencer
-Project led by Dr. Eugen Czeizler
+Developed by Frankie Spencer,
+Project led by Dr. Eugen Czeizler,
 
 At: Algorithms and Software in Bio-Engineering (AlgoBio)
     Dept. of Information Technologies
